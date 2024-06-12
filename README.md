@@ -1,6 +1,8 @@
 # QBuild
-
 A simple C++ based build system for simplifying building C++ files by leveraging g++ for my C++ side projects
+
+## showcase
+https://github.com/goesbyabhi/qbuild/assets/83471520/b9945283-fc04-4f27-996d-712a33c5f0b3
 
 ## build.config
 This is the build.config file:
@@ -28,4 +30,4 @@ make
 - This will output whatever you want.
 
 ## Motivation
-- Its a hassle to type that big g++ commands again and again. CMake and Make are cool and I wanted to make something like that.
+- Its a hassle to type that big g++ commands again and again. CMake and Make are cool and I wanted to make something like that but extremely minimal lol
